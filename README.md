@@ -4,7 +4,14 @@ The binding Code of Conduct which community members and the staff team of NerdPi
 ## Moderation
 NerdPing is moderated by a chosen board of staff members. There is a hierarchy within this board, however it is frowned upon to 'pull rank' on others in unnecessary circumstances. This hierarchy is determined on whether a staff member is that of a `moderator` or `manager`.
 
-### Recruitment
+### Guidelines for applying policies
+
+
+### Guidelines for elevating issues to management
+
+
+
+## Recruitment
 For recruiting staff to NerdPing there are two main strategies, listed below. More often than not the former strategy is used to select `moderating staff`, whereas the latter used to select `management staff`.
 
 #### Application
@@ -21,11 +28,3 @@ Invitations are often initiated via a formal email, semi-formal IM message (such
 
 #### Interview
 Interviews often occur on our TeamSpeak3 server, however there is no obligation for the interview to take place there, and we will be happy to use another means such as Google Hangout or Skype. Present in the interview there is likely to be two existing staff members present, this ensures that an unbiased view is formed on the interviewee, and to try and change up the conversation between interviewers.
-
-### Roles
-
-#### Manager
-Managers deal with the day to day runnings of NerdPing. This often includes the organising of other staff members, management of servers, or working on documents (such as this one.)
-
-#### Moderator
-The jurisdiction of a moderator is that of community presence, such as the TeamSpeak3 server, Counter-Strike: Global Offensive servers, and social networks (such as blogs, forums, and social media).
