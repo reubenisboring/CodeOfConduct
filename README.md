@@ -28,3 +28,8 @@ Invitations are often initiated via a formal email, semi-formal IM message (such
 
 #### Interview
 Interviews often occur on our TeamSpeak3 server, however there is no obligation for the interview to take place there, and we will be happy to use another means such as Google Hangout or Skype. Present in the interview there is likely to be two existing staff members present, this ensures that an unbiased view is formed on the interviewee, and to try and change up the conversation between interviewers.
+
+### Appeal against punishment
+If you feel as though you have recieved punishment incorrectly (a 'kick' or 'ban') then you can appeal by emailing [toby@nerdping.com](mail-to://toby@nerdping.com) or [salty@nerdping.com](mail-to://salty@nerdping.com). Being abusive or using the incorrect channels, for example personal social media accounts of NerdPing staff (or even real life confrontation) will achieve nothing.
+
+A senior member of staff will review your case and reverse the decision if evidence suggests you were victim of abuse of power or an error. If you recieve no response then we have decided to take no action. 'Kicking' and 'Banning' are not taken lightly and so only trusted NerdPing staff will make the final decision, meaning errors and admin abuse are not something you will likely ever encounter with our community.
