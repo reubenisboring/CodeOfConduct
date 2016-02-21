@@ -5,10 +5,10 @@ The binding Code of Conduct which community members and the staff team of NerdPi
 NerdPing is moderated by a chosen board of staff members. There is a hierarchy within this board, however it is frowned upon to 'pull rank' on others in unnecessary circumstances. This hierarchy is determined on whether a staff member is that of a `moderator` or `manager`.
 
 ### Guidelines for applying policies
-
+You must not have a significant amount of vaild complaints against you, and also have a "clean" history on the teamspeak. This would be from evidence and knowledge from relevent staff. 
 
 ### Guidelines for elevating issues to management
-
+Issues range from fellow staff not abiding the rules set out in the "Rules channel" in teamspeak, a simple poke to a lead member of staff should be sufficent. Otherwise an email to [toby@nerdping](mail-to://toby@nerdping.com) or to [salty@nerdping](mail-to://salty@nerdping.com). `Kicks` and `Bans` are required to have a relevent reason and a appropriate corresponding time limit assigned to them in the case of a a ban.
 
 
 ## Recruitment
